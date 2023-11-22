@@ -1,25 +1,27 @@
+{ "results": [
 {
-"Bottle Gourd":{
+ "Name": "Bottle Gourd",
  "Climate":"direct sunlight, 65-100F°",
  "When":"Spring",
  "Watering":"1-1.5in. per week",
  "Harvest": "anytime before First Frost",  
  "Image": ""
 },
-
-"Bitter Gourd":{
+{
+ "Name":"Bitter Gourd",
  "Climate":"direct sunlight, 75-80F°",
  "When":"late Spring",
  "Watering":"1-2in. per week",
  "Harvest": "Summer to Fall",  
  "Image": ""
 },
-
-"Snake Gourd":{
+{
+ "Name":"Snake Gourd",
  "Climate":"direct sunlight to partial shade, 85-95F°",
  "When":"late Spring to Summer",
  "Watering":"1in. per week",
  "Harvest": "late Summer to late Fall",  
  "Image": ""
 }
+]
 }
