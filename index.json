@@ -3,7 +3,7 @@
  "Climate":"direct sunlight, 65-100F°",
  "When":"Spring",
  "Watering":"1-1.5in. per week",
- "Harvest": "anytime before First Frost"  
+ "Harvest": "anytime before First Frost",  
  "Image": ""
 },
 
@@ -11,7 +11,7 @@
  "Climate":"direct sunlight, 75-80F°",
  "When":"late Spring",
  "Watering":"1-2in. per week",
- "Harvest": "Summer to Fall"  
+ "Harvest": "Summer to Fall",  
  "Image": ""
 },
 
@@ -19,6 +19,6 @@
  "Climate":"direct sunlight to partial shade, 85-95F°",
  "When":"late Spring to Summer",
  "Watering":"1in. per week",
- "Harvest": "late Summer to late Fall"  
+ "Harvest": "late Summer to late Fall",  
  "Image": ""
 }, 
