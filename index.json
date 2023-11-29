@@ -5,7 +5,7 @@
  "When":"Spring",
  "Watering":"1-1.5in. per week",
  "Harvest": "anytime before First Frost",  
- "Image": ""
+ "Image": "https://m.media-amazon.com/images/I/51BId8FLzYL._AC_UF894,1000_QL80_.jpg"
 },
 {
  "Name":"Bitter Gourd",
@@ -13,7 +13,7 @@
  "When":"late Spring",
  "Watering":"1-2in. per week",
  "Harvest": "Summer to Fall",  
- "Image": ""
+ "Image": "https://sandiegoseedcompany.com/wp-content/uploads/2023/01/Bitter-Melon-Gourd-2.png"
 },
 {
  "Name":"Snake Gourd",
@@ -21,7 +21,7 @@
  "When":"late Spring to Summer",
  "Watering":"1in. per week",
  "Harvest": "late Summer to late Fall",  
- "Image": ""
+ "Image": "https://images.squarespace-cdn.com/content/v1/5a779422e9bfdf382879dd24/1577635627995-F10CDHNMO0IV9AEVKCL6/Snake-Gourd-growing.jpg"
 }
 ]
 }
